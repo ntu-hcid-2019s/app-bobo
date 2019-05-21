@@ -7,14 +7,10 @@ date: 2019-03-06
 img: s01.png
 thumbnail: s01.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: <a href='./../slide/team01_01_needfinding.pdf'>
-
-# Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: March 2019
+# client: Start Bootstrap
+category: Need Finding
+description: <h3><a href='./../slide/s01.pdf'>PDF</a></h3>
 
 ---
-
-<a href='./../slide/team01_01_needfinding.pdf'>
 

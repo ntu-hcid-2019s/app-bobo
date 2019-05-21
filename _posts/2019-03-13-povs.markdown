@@ -1,0 +1,15 @@
+---
+title: POVs
+subtitle: 
+layout: default
+modal-id: 1
+date: 2019-03-13
+img: s02.png
+thumbnail: s02.png
+alt: image-alt
+project-date: March 2019
+# client: Start Bootstrap
+category: POV
+description: <h3><a href='./../slide/s02.pdf'>PDF</a></h3>
+
+---
